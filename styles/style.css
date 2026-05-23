@@ -95,6 +95,7 @@
   position: relative;
   border-top:  2px solid var(--accent-color);
   border-bottom: 2px solid var(--accent-color);
+  line-height: 0;
 }
 
 .card__image {
