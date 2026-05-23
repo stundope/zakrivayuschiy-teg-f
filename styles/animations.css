@@ -39,11 +39,11 @@
 }
 
 .main-body {
-  transition: 0.3s linear 0.03s;
+  transition: 0.3s linear 0s;
 }
 
 .core {
-  transition: 0.3 linear 0s;
+  transition: 0.3s linear 0.03s;
 }
 
 /* hover */

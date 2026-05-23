@@ -4,10 +4,13 @@
   --accent-font: 'Press Start 2P', sans-serif;
   --main-font-text-weight: 410;
   --main-font-title-weight: 715;
+  --background-color: #d3d3d3;
+  --main-color: #fff;
+  --main-background-color: #fff;
+  --accent-color: #000;
   --gradient-line-color-first: #d3d3d3;
   --gradient-line-color-second: #e7e7e7;
   --gradient-line-color-third: #1a1a1a;
-  --accent-color: #000;
   --heart-contour-color: #000;
   --animation-fill-color: #FF0000;
   --block-width: clamp(375px, 48.6% ,700px);
