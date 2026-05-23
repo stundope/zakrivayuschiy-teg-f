@@ -234,7 +234,7 @@
 }
 
 .floppy__form-image {
-  width: 80px;
+  width: 90px;
 }
 
 .floppy__form {
@@ -319,6 +319,10 @@ dialog[open]::backdrop {
 
   .card__text-section {
     padding: 13px 25px 0;
+  }
+
+  .floppy__form-image {
+    width: 80px;
   }
 }
 
